@@ -1,4 +1,4 @@
-# get-next-line
+# Get next line
 
 Function to read line by line from file. 2021-2022
 
