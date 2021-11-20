@@ -13,7 +13,7 @@ char	*get_next_line(int fd);
 **Follow the steps below**
 ```bash
 # Clone the project and access the folder
-git clone https://github.com/wwwwelton/GNL && cd GNL/
+git clone https://github.com/Ra-Wo/Get-next-line.git && cd Get_next_line
 
 # Create a main file
 touch main.c
