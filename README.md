@@ -4,7 +4,7 @@ Function to read line by line from file. 2021-2022
 
 ## Declaration
 
-```
+```c
 char	*get_next_line(int fd);
 ```
 
