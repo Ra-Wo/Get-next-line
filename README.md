@@ -54,4 +54,4 @@ gcc get_next_line.c get_next_line.h get_next_line_utils.c main.c
 ```
 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)]
