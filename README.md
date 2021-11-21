@@ -36,9 +36,9 @@ int main(void)
 	fd = open("myfile.txt", O_RDONLY);
 
 	while (1)
-  {
-    printf("%s", get_next_line(fd));
-  }
+  	{
+    		printf("%s", get_next_line(fd));
+  	}
 	return (0);
 }
 ```
