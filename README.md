@@ -1,4 +1,4 @@
-# Get next line ![](https://forthebadge.com/images/badges/made-with-c.svg) ![](https://forthebadge.com/images/badges/built-with-love.svg)
+# Get next line 
 
 Function to read line by line from file. 2021-2022
 
@@ -52,3 +52,4 @@ gcc get_next_line.c get_next_line.h get_next_line_utils.c main.c
 
 # Well done!
 ```
+![](https://forthebadge.com/images/badges/made-with-c.svg) ![](https://forthebadge.com/images/badges/built-with-love.svg)
