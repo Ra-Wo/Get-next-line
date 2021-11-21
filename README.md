@@ -1,4 +1,4 @@
-# Get next line ![](https://forthebadge.com/images/badges/made-with-c.svg)
+# Get next line ![](https://forthebadge.com/images/badges/made-with-c.svg) ![](https://forthebadge.com/images/badges/built-with-love.svg)
 
 Function to read line by line from file. 2021-2022
 
